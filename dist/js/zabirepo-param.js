@@ -1,4 +1,4 @@
-var baseURL = 'http://zabbix.org/zabbix';
+var baseURL = 'https://zabbix.org/zabbix';
 var graphURL = baseURL + '/chart.php';
 var apiURL = baseURL + '/api_jsonrpc.php';
 
